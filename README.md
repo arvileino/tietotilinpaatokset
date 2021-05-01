@@ -18,6 +18,8 @@
 
 [Savonlinna](https://dynasty.savonlinna.fi/kokous/20206534-14-1.PDF)
 
+[Suonenjoki](https://www.suonenjoki.fi/kuntainfo/tietosuoja)
+
 [Tampere](https://www.tampere.fi/tampereen-kaupunki/yhteystiedot-ja-asiointi/verkkoasiointi/tietosuoja.html)
 
 [Turku](https://www.turku.fi/turku-tieto/tietosuoja/tietotilinpaatos)
