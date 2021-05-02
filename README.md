@@ -16,6 +16,8 @@
 
 [Orivesi](https://orivesi.fi/kaupunkimme/kaupunki/tietosuoja/)
 
+[Puumala](https://puumala.cloudnc.fi/fi-FI/Toimielimet/Kunnanhallitus/Kokous_2932021/Tietotilinpaatos_vuodelta_2020(5050))
+
 [Savonlinna](https://dynasty.savonlinna.fi/kokous/20206534-14-1.PDF)
 
 [Suonenjoki](https://www.suonenjoki.fi/kuntainfo/tietosuoja)
@@ -27,4 +29,25 @@
 [Vantaa](https://www.vantaa.fi/hallinto_ja_talous/hallinto/henkilotietojen_kasittely)
 
 [Varkaus](https://www.varkaus.fi/varkauden-kaupunki/turvallisuus/tietoturva-ja-tietosuoja/tietotilinpäätös)
+
+[Ähtäri](https://ahtari.fi/index.php/kaupunki-ja-hallinto/talous-ja-strategiat/tilinpaatos)
+
+## Muut
+
+[Digi- ja väestövirasto](https://dvv.fi/tietotilinpaatos)
+
+[DigiFinland](https://digifinland.fi/tietosuoja/)
+
+[Eläketurvakeskus](https://www.julkari.fi/discover?query=tietotilinpäätös&scope=10024%2F129004)
+
+[OP Ryhmä](https://www.op.fi/op-ryhma/medialle/raportit/tietotilinpaatos)
+
+[Suomen Syöpärekisteri](https://syoparekisteri.fi/tietoa-syoparekisterista/tietotilinpaatos/)
+
+[Traficom](https://www.traficom.fi/fi/traficomin-julkaisut?limit=20&offset=0&query=tietotilinpäätös&sort=created)
+
+[Väylävirasto](https://julkaisut.vayla.fi/pdf12/vj_2021-19_tietotilinpaatos_2020_web.pdf)
+
+
+
 
